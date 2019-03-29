@@ -1,0 +1,8 @@
+This program is is a Cloud storage system for simple files (size less than 100KB)
+that was written in C using  the native Unix TCP/IP socket in- terface (i.e., socket calls)
+Under the direction of the user (who will be given a list of commands) 
+the user will be able to: Store a file in the cloud (copy file from client directory to server),
+Retrieve a file from the cloud (reverse of previous process), copy a file locally (copy a file in client
+directory), remove a file stored on the cloud (remove file stored on server), remove local file (remove
+file stored in client directory). 
+
